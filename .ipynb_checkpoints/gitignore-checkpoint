@@ -1,0 +1,16 @@
+# Ignore data files
+*.csv
+*.json
+*.tsv
+*.xlsx
+/data/
+
+# Python cache and env
+__pycache__/
+*.pyc
+.env
+.venv
+
+# Misc
+*.tmp
+.DS_Store
