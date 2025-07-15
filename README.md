@@ -40,7 +40,7 @@ You can run each script from the command line:
 python pure_python_stats.py data/2024_fb_ads_president_scored_anon.csv
 python pandas_stats.py data/2024_fb_posts_president_scored_anon.csv
 python polars_stats.py data/2024_tw_posts_president_scored_anon.csv
-
+```
 ## 📈 Visual Highlights
 
 Visualizations were created using seaborn and matplotlib inside bonus_visuals.ipynb.
@@ -60,7 +60,7 @@ These visuals help quantify ad reach and campaign dominance
 | Recommend to   | Learners           | Analysts        | Performance users    |
 
 
-💡 Key Observations
+##💡 Key Observations
 
 Facebook ads tend to have low estimated_impressions, with a few extreme outliers
 A small group of page_ids posted most content, showing high campaign activity
